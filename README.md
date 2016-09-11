@@ -1,4 +1,4 @@
-# angular2-webpack
+# Felix Blog using angular2-webpack
 
 ### Quick start
 
